@@ -1,0 +1,2 @@
+first entry || today || John Doe
+something
